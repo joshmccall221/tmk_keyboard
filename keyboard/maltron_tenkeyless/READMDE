@@ -1,0 +1,5 @@
+The default keymap in keymap_dvorak.c.
+
+Use make KEYMAP=qwerty to use the qwerty map, or change the layout of the makefile.
+
+ 
